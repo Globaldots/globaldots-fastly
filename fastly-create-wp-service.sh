@@ -3,7 +3,7 @@
 # prerequisites: jq (yum install jq) 
 #
 # usage: fastly-create-wp-service.sh <domain> <origin> 
-# examples: fastly-create-wp-service.sh blog.mywebsite.com  origin.icepop.com   
+# examples: fastly-create-wp-service.sh blog.mywebsite.com  origin.mydomain.com   
 #           fastly-create-wp-service.sh blog.mywebsite.com  100.100.100.100  
     
 USER=someuser@somedomain.com
