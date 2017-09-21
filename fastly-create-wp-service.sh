@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# This script installs a new Wordpress service on your Fastly account. 
 # prerequisites: jq (yum install jq) 
 #
 # usage: fastly-create-wp-service.sh <domain> <origin> 
